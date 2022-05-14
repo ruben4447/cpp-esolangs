@@ -1,0 +1,19 @@
+set A 1
+set B 2
+
+output A=
+outvar A
+output \n
+output B=
+outvar B
+output \n
+output -------
+output \n
+
+switch B
+
+output A=
+outvar A
+output \n
+output B=
+outvar B
