@@ -12,6 +12,8 @@ A collection of interpreters for some esoteric languages
         - output_file: file to dump generated brainfu*k code into, which is able to be run by `brainfuck.exe`
 - `befune.exe`      Interpret Befunge files
     - Command Line: `./befunge.exe <file>`
+- `cell.exe`      Interpret FALSE files
+    - Command Line: `./cell.exe <file>`
 - `FALSE.exe`      Interpret FALSE files
     - Command Line: `./FALSE.exe <file>`
 
@@ -25,6 +27,7 @@ A collection of interpreters for some esoteric languages
     - ook
     - uwu
 - Befunge (`./befunge.exe`)
+- Cell (`./cell.exe`)
 - FALSE (`./FALSE.ece`)
 
 # Build
